@@ -84,9 +84,3 @@ froga = {'X': 'E',
          'F': 'X', 
          'L': 'Z'}
 print(aplikatu_ordezkapena(textua, froga))
-# 1. maiztasunakKonparatu()
-# 2. Froga sortu
-# 3. aplikatu_ordezkapena froga erabiliz
-
-# Sinadura froga
-# Beste sinadura froga bat
