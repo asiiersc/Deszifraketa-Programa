@@ -89,3 +89,4 @@ print(aplikatu_ordezkapena(textua, froga))
 # 3. aplikatu_ordezkapena froga erabiliz
 
 # Sinadura froga
+# Beste sinadura froga bat
