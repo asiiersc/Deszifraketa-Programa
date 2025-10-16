@@ -87,3 +87,5 @@ print(aplikatu_ordezkapena(textua, froga))
 # 1. maiztasunakKonparatu()
 # 2. Froga sortu
 # 3. aplikatu_ordezkapena froga erabiliz
+
+# Sinadura froga
